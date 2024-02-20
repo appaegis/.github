@@ -1,13 +1,33 @@
-<!--
-  Add a sentence or two in the blank space below describing the changes your PR makes.
-  Include any info that might be relevant for your teammates to understand and discuss the changes.
-  (Also, make sure to add a meaningful title above! Please don't just use the branch name or story number).
--->
+# Pull Request check
 
+* [ ] Motivation
+* [ ] Document
+* [ ] Unit test
+* [ ] Integration test
+* [ ] Deployment script
+* [ ] How to review this pull request
+* [ ] Check the impact
 
+## Motivation
+Why do we need this PR
 
----
-#### To-do list (Check these items off as they're completed)
-- [ ] Commits cleaned up (messages are meaningful/not identical, commits are condensed to a small, helpful amount)
-- [ ] The story has passed QA and PM review, if applicable
-- [ ] There are no pre-release dependency versions left in the source
+## Documentation
+List the links of related documents
+
+## Unit test
+The unit testcases for the current changes and how to run them
+
+## Integration test
+The Integration testcases for the current changes and how to run them
+
+## Deployment script
+How to deploy the code
+
+## How to review this pull request
+Any more information for the reviewer
+
+## Check the impact
+1. Impact to regression testcases
+2. Impact to UI
+2. Impact to API documentation 
+3. Impact to monitoring
