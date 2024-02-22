@@ -1,11 +1,11 @@
 # Pull Request check
 
-* [ ] Motivation
+* [X] Motivation
 * [ ] Document
-* [ ] Unit test
-* [ ] Integration test
+* [X] Unit test
+* [X] Integration test
 * [ ] Deployment script
-* [ ] How to review this pull request
+* [X] How to review this pull request
 * [ ] Check the impact
 
 ## Motivation
